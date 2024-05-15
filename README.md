@@ -36,7 +36,6 @@ This Python script implements a Naive Bayes classifier with Backward Elimination
    DATA_PATH = "/path/to/your/dataset.txt"
    TEST_STATS_FILE = "naive_bayes_test_stats.txt"
    TEST_OUT_FILE = "naive_bayes_test_out.txt"
-   ...
    ```
 
 5. Run the main script:
