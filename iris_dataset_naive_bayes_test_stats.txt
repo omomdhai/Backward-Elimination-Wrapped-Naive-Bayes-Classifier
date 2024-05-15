@@ -1,0 +1,8 @@
+----------------------------------------------------------
+BE-Wrapped Naive Bayes Summary Statistics (Testing)
+----------------------------------------------------------
+Data Set : /Users/omdariyans/Downloads/Backward Elimination/iris_dataset.txt
+
+Number of Test Instances : 49
+Accuracy : 98.0%
+Optimal Attribute Subset : ['Sepal Width in cm', 'Petal Length in cm']
