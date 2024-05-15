@@ -58,11 +58,8 @@ This Python script implements a Naive Bayes classifier with Backward Elimination
 - Pandas
 - NumPy
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Author
-- [Your Name](https://github.com/your_username)
+- Chaudhari Dhairyansh Nathubhai (https://github.com/your_username)
 
 ---
 
