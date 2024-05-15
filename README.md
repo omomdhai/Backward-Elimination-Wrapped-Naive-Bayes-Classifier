@@ -59,7 +59,7 @@ This Python script implements a Naive Bayes classifier with Backward Elimination
 - NumPy
 
 ## Author
-- Chaudhari Dhairyansh Nathubhai (https://github.com/your_username)
+- Chaudhari Dhairyansh Nathubhai
 
 ---
 
