@@ -13,13 +13,13 @@ This Python script implements a Naive Bayes classifier with Backward Elimination
 1. Clone the repository:
 
    ```
-   git clone https://github.com/omomdhai/BreadcrumbsBackward-Elimination-Wrapped-Naive-Bayes-Classifier
+   git clone https://github.com/omomdhai/Backward-Elimination-Wrapped-Naive-Bayes-Classifier
    ```
    
 2. Navigate to the project directory:
 
    ```
-   cd BreadcrumbsBackward-Elimination-Wrapped-Naive-Bayes-Classifier
+   cd Backward-Elimination-Wrapped-Naive-Bayes-Classifier
    ```
 
 3. Install the required dependencies:
